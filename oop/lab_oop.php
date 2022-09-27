@@ -103,7 +103,7 @@ class MonThiDau{
     {
         $this->ten = $ten;
         $this->dk_chieu_cao = $dk_chieu_cao;
-        $this->dk_can_nang = $dk_can_nang;
+        // $this->dk_can_nang = $dk_can_nang;
     }
 }
 
